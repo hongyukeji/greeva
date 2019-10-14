@@ -1,0 +1,13 @@
+{
+    "name": "hongyukeji/greeva",
+    "description": "Html5 greeva template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shadow",
+            "email": "admin@hongyuvip.com"
+        }
+    ],
+    "require": {},
+    "autoload": {}
+}
